@@ -25,7 +25,6 @@ const EditJob = () => {
         type: data.type,
         description: data.description
       })
-      console.log(data);
     }
     fetchSingleJob()
   }, [jobId])

@@ -26,6 +26,8 @@ const JobDetails = () => {
           Edit Job
         </Link>
 
+        <h2>Booooo</h2>
+
       </div>
       }
     </div>
