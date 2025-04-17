@@ -31,6 +31,18 @@ const JobDetails = () => {
         <h2>Booooo</h2>
         <h2>Booooo</h2>
 
+
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+
+
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+        <h2>Booooo</h2>
+
       </div>
       }
     </div>
